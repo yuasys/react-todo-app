@@ -8,4 +8,5 @@ Created with CodeSandbox
 
 ## 2022-10-21分かったこと
 1. codesandboxのREADME.mdファイルはブラウザでは編集できなくなっている
-1. README.mdファイルを編集するにはgitタブをクリックしてからopen visual codeボタンをクリックしてVScodeを起動してVscodeで編集可能となる
+1. README.mdファイルを編集するにはgitタブをクリックしてからopen visual codeボタンをクリックしてVScodeを起動してVscodeで編集可能となる→もう一度試してみたらREADME．MDファイルの編集は可能にできました（ブラウザでも編集ペインの右上にある「<>」をクリックｓると編集モードにできる！）
+1. どちらかというとcodesandboxで編集したほうが、コミット文が自動生成されつので楽だと分かった。
