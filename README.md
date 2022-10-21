@@ -9,5 +9,9 @@ Created with CodeSandbox
 
 ## 2022-10-21分かったこと
 1. codesandboxのREADME.mdファイルはブラウザでは編集できなくなっている
-1. README.mdファイルを編集するにはgitタブをクリックしてからopen visual codeボタンをクリックしてVScodeを起動してVscodeで編集可能となる→もう一度試してみたらREADME．MDファイルの編集は可能にできました（ブラウザでも編集ペインの右上にある「<>」をクリックｓると編集モードにできる！）
+1. README.mdファイルを編集するにはgitタブをクリックしてからopen visual codeボタンをクリックしてVScodeを起動してVscodeで編集可能となる→もう一度試してみたらREADMEファイルの編集は可能にできました（ブラウザでも編集ペインの右上にある「<>」をクリックｓると編集モードにできる！）
 1. どちらかというとcodesandboxで編集したほうが、コミット文が自動生成されるので、楽だと分かった。
+
+## 2022-10-22のReact演習詳細
+1. テーマ: Todoアプリの作成を実習する
+1. 教材（動画）: [～React開発の準備～](https://youtu.be/rUY3MSvyKrU?t=4654)
