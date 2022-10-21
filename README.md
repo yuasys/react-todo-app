@@ -1,4 +1,4 @@
-# react-toto-app
+# react-todo-app
 Created with CodeSandbox
 
 ## このリポジトリについて
